@@ -1,0 +1,1950 @@
+!SESSION 2017-03-23 18:12:31.515 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.6.0_10-rc2
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.203
+!MESSAGE NLS unused message: line_separator_platform_mac_os_9 in: org.eclipse.core.internal.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: ViewsPreference_currentPresentation in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: ViewsPreference_currentPresentationFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_yes in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_no in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: ViewsPreference_editors in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: ViewsPreference_editors_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: ViewsPreference_editors_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: ViewsPreference_views in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: ViewsPreference_views_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: ViewsPreference_views_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topRight in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topLeft in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_left in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: ViewsPreference_traditionalTabs in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: ViewsPreference_currentTheme in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: ViewsPreference_currentThemeDescription in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: ViewsPreference_override in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: ViewsPreference_currentThemeFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: ViewsPreference_restartRequestJobName in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:37.734
+!MESSAGE NLS unused message: EditorManager_largeDocumentWarning in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:12:39.406
+!MESSAGE NLS unused message: OpenResourceDialog_openWithButton_toolTip in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:13:15.390
+!MESSAGE NLS unused message: TaskJobFactory_Receiving_configuration in: org.eclipse.mylyn.internal.tasks.core.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:13:15.656
+!MESSAGE NLS unused message: BugzillaClientManager_Refreshing_repository_configuration in: org.eclipse.mylyn.internal.bugzilla.core.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:13:15.875
+!MESSAGE NLS unused message: UpdateRepositoryConfigurationAction_Error_updating_repository_configuration in: org.eclipse.mylyn.internal.tasks.ui.views.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:13:15.906
+!MESSAGE NLS unused message: UpdateRepositoryConfigurationAction_Updating_repository_configuration_for_X in: org.eclipse.mylyn.internal.tasks.ui.views.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:13:17.093
+!MESSAGE NLS unused message: QuickAccess_PressKeyToShowInitialMatches in: org.eclipse.ui.internal.quickaccess.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:13:20.250
+!MESSAGE NLS unused message: JavaEditorPreferencePage_highlightMatchingBrackets in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-23 18:13:30.515
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:13:34.906
+!MESSAGE NLS unused message: SourceAttachmentBlock_filename_label in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 18:13:34.937
+!MESSAGE NLS unused message: SourceAttachmentBlock_filename_internal_button in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+!SESSION 2017-03-23 19:15:21.546 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.6.0_10-rc2
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data G:\wyx\javatest\201529010122 王艺璇 计算机科学与技术（数字媒体技术1502班）\JavaDesign -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.843
+!MESSAGE NLS unused message: line_separator_platform_mac_os_9 in: org.eclipse.core.internal.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.921
+!MESSAGE NLS unused message: ViewsPreference_currentPresentation in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.921
+!MESSAGE NLS unused message: ViewsPreference_currentPresentationFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.921
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.921
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.921
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_yes in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.921
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_no in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.921
+!MESSAGE NLS unused message: ViewsPreference_editors in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.937
+!MESSAGE NLS unused message: ViewsPreference_editors_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.937
+!MESSAGE NLS unused message: ViewsPreference_editors_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.937
+!MESSAGE NLS unused message: ViewsPreference_views in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.937
+!MESSAGE NLS unused message: ViewsPreference_views_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.937
+!MESSAGE NLS unused message: ViewsPreference_views_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.937
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.937
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topRight in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.937
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topLeft in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.937
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_left in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.937
+!MESSAGE NLS unused message: ViewsPreference_traditionalTabs in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.937
+!MESSAGE NLS unused message: ViewsPreference_currentTheme in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.937
+!MESSAGE NLS unused message: ViewsPreference_currentThemeDescription in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.937
+!MESSAGE NLS unused message: ViewsPreference_override in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.937
+!MESSAGE NLS unused message: ViewsPreference_currentThemeFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.937
+!MESSAGE NLS unused message: ViewsPreference_restartRequestJobName in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:22.937
+!MESSAGE NLS unused message: EditorManager_largeDocumentWarning in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:25.734
+!MESSAGE NLS unused message: OpenResourceDialog_openWithButton_toolTip in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:27.890
+!MESSAGE NLS unused message: JavaEditorPreferencePage_highlightMatchingBrackets in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:32.750
+!MESSAGE NLS unused message: QuickAccess_PressKeyToShowInitialMatches in: org.eclipse.ui.internal.quickaccess.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:33.000
+!MESSAGE NLS unused message: TaskJobFactory_Receiving_configuration in: org.eclipse.mylyn.internal.tasks.core.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:33.125
+!MESSAGE NLS unused message: BugzillaClientManager_Refreshing_repository_configuration in: org.eclipse.mylyn.internal.bugzilla.core.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:33.156
+!MESSAGE NLS unused message: UpdateRepositoryConfigurationAction_Error_updating_repository_configuration in: org.eclipse.mylyn.internal.tasks.ui.views.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:15:33.171
+!MESSAGE NLS unused message: UpdateRepositoryConfigurationAction_Updating_repository_configuration_for_X in: org.eclipse.mylyn.internal.tasks.ui.views.messages
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-23 19:15:34.953
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:16:40.078
+!MESSAGE NLS unused message: GotoMatchingBracket_error_invalidSelection in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:16:40.312
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_6 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:16:40.312
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_7 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:16:40.312
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_8 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:16:40.328
+!MESSAGE NLS unused message: LaunchConfigurationType_0 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:16:40.328
+!MESSAGE NLS unused message: LaunchConfigurationType_1 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:16:42.140
+!MESSAGE NLS unused message: StandardVMType_Standard_VM_not_supported_on_MacOS__1 in: org.eclipse.jdt.internal.launching.LaunchingMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:16:43.562
+!MESSAGE NLS unused message: JavadocHover_noAttachments in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:16:43.578
+!MESSAGE NLS unused message: JavadocHover_noAttachedSource in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:16:43.578
+!MESSAGE NLS unused message: JavadocHover_noAttachedJavadoc in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:16:43.593
+!MESSAGE NLS unused message: JavadocHover_noInformation in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:16:43.593
+!MESSAGE NLS unused message: JavadocHover_error_gettingJavadoc in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:16:43.609
+!MESSAGE NLS unused message: ProblemHover_chooseSettingsTypeDialog_button_cancel in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+!SESSION 2017-03-23 19:18:04.312 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.6.0_10-rc2
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.250
+!MESSAGE NLS unused message: line_separator_platform_mac_os_9 in: org.eclipse.core.internal.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: ViewsPreference_currentPresentation in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: ViewsPreference_currentPresentationFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_yes in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_no in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: ViewsPreference_editors in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: ViewsPreference_editors_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: ViewsPreference_editors_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: ViewsPreference_views in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: ViewsPreference_views_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: ViewsPreference_views_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topRight in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topLeft in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_left in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: ViewsPreference_traditionalTabs in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: ViewsPreference_currentTheme in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: ViewsPreference_currentThemeDescription in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: ViewsPreference_override in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: ViewsPreference_currentThemeFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: ViewsPreference_restartRequestJobName in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.343
+!MESSAGE NLS unused message: EditorManager_largeDocumentWarning in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:05.562
+!MESSAGE NLS unused message: OpenResourceDialog_openWithButton_toolTip in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:16.171
+!MESSAGE NLS unused message: JavaEditorPreferencePage_highlightMatchingBrackets in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:16.828
+!MESSAGE NLS unused message: GotoMatchingBracket_error_invalidSelection in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:17.906
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_6 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:17.937
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_7 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:17.953
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_8 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:17.953
+!MESSAGE NLS unused message: LaunchConfigurationType_0 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:17.968
+!MESSAGE NLS unused message: LaunchConfigurationType_1 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:19.640
+!MESSAGE NLS unused message: StandardVMType_Standard_VM_not_supported_on_MacOS__1 in: org.eclipse.jdt.internal.launching.LaunchingMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:21.375
+!MESSAGE NLS unused message: QuickAccess_PressKeyToShowInitialMatches in: org.eclipse.ui.internal.quickaccess.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:22.031
+!MESSAGE NLS unused message: TaskJobFactory_Receiving_configuration in: org.eclipse.mylyn.internal.tasks.core.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:22.156
+!MESSAGE NLS unused message: BugzillaClientManager_Refreshing_repository_configuration in: org.eclipse.mylyn.internal.bugzilla.core.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:22.187
+!MESSAGE NLS unused message: UpdateRepositoryConfigurationAction_Error_updating_repository_configuration in: org.eclipse.mylyn.internal.tasks.ui.views.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:22.203
+!MESSAGE NLS unused message: UpdateRepositoryConfigurationAction_Updating_repository_configuration_for_X in: org.eclipse.mylyn.internal.tasks.ui.views.messages
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-23 19:18:23.906
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:27.125
+!MESSAGE NLS unused message: JavadocHover_noAttachments in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:27.156
+!MESSAGE NLS unused message: JavadocHover_noAttachedSource in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:27.171
+!MESSAGE NLS unused message: JavadocHover_noAttachedJavadoc in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:27.171
+!MESSAGE NLS unused message: JavadocHover_noInformation in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:27.187
+!MESSAGE NLS unused message: JavadocHover_error_gettingJavadoc in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:18:27.203
+!MESSAGE NLS unused message: ProblemHover_chooseSettingsTypeDialog_button_cancel in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+!SESSION 2017-03-23 19:27:29.328 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.6.0_10-rc2
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product -data G:\wyx\javatest\201529010122 王艺璇 计算机科学与技术（数字媒体技术1502班）\JavaDesign -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.625
+!MESSAGE NLS unused message: line_separator_platform_mac_os_9 in: org.eclipse.core.internal.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.703
+!MESSAGE NLS unused message: ViewsPreference_currentPresentation in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.703
+!MESSAGE NLS unused message: ViewsPreference_currentPresentationFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.703
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.703
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.703
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_yes in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.703
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_no in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.703
+!MESSAGE NLS unused message: ViewsPreference_editors in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.703
+!MESSAGE NLS unused message: ViewsPreference_editors_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.703
+!MESSAGE NLS unused message: ViewsPreference_editors_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.703
+!MESSAGE NLS unused message: ViewsPreference_views in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.703
+!MESSAGE NLS unused message: ViewsPreference_views_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.703
+!MESSAGE NLS unused message: ViewsPreference_views_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.703
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.703
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topRight in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.703
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topLeft in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.703
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_left in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.703
+!MESSAGE NLS unused message: ViewsPreference_traditionalTabs in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.703
+!MESSAGE NLS unused message: ViewsPreference_currentTheme in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.703
+!MESSAGE NLS unused message: ViewsPreference_currentThemeDescription in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.718
+!MESSAGE NLS unused message: ViewsPreference_override in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.718
+!MESSAGE NLS unused message: ViewsPreference_currentThemeFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.718
+!MESSAGE NLS unused message: ViewsPreference_restartRequestJobName in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:30.718
+!MESSAGE NLS unused message: EditorManager_largeDocumentWarning in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:34.390
+!MESSAGE NLS unused message: OpenResourceDialog_openWithButton_toolTip in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:38.000
+!MESSAGE NLS unused message: JavaEditorPreferencePage_highlightMatchingBrackets in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:42.406
+!MESSAGE NLS unused message: QuickAccess_PressKeyToShowInitialMatches in: org.eclipse.ui.internal.quickaccess.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:43.093
+!MESSAGE NLS unused message: TaskJobFactory_Receiving_configuration in: org.eclipse.mylyn.internal.tasks.core.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:43.203
+!MESSAGE NLS unused message: BugzillaClientManager_Refreshing_repository_configuration in: org.eclipse.mylyn.internal.bugzilla.core.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:43.250
+!MESSAGE NLS unused message: UpdateRepositoryConfigurationAction_Error_updating_repository_configuration in: org.eclipse.mylyn.internal.tasks.ui.views.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:27:43.265
+!MESSAGE NLS unused message: UpdateRepositoryConfigurationAction_Updating_repository_configuration_for_X in: org.eclipse.mylyn.internal.tasks.ui.views.messages
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-23 19:27:44.984
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-03-23 19:28:39.609 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.6.0_10-rc2
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data G:\wyx\javatest\201529010122 王艺璇 计算机科学与技术（数字媒体技术1502班）\JavaDesign -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.890
+!MESSAGE NLS unused message: line_separator_platform_mac_os_9 in: org.eclipse.core.internal.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: ViewsPreference_currentPresentation in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: ViewsPreference_currentPresentationFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_yes in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_no in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: ViewsPreference_editors in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: ViewsPreference_editors_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: ViewsPreference_editors_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: ViewsPreference_views in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: ViewsPreference_views_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: ViewsPreference_views_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topRight in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topLeft in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_left in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: ViewsPreference_traditionalTabs in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: ViewsPreference_currentTheme in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: ViewsPreference_currentThemeDescription in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: ViewsPreference_override in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: ViewsPreference_currentThemeFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: ViewsPreference_restartRequestJobName in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:40.968
+!MESSAGE NLS unused message: EditorManager_largeDocumentWarning in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:44.640
+!MESSAGE NLS unused message: OpenResourceDialog_openWithButton_toolTip in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:48.640
+!MESSAGE NLS unused message: QuickAccess_PressKeyToShowInitialMatches in: org.eclipse.ui.internal.quickaccess.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:49.703
+!MESSAGE NLS unused message: TaskJobFactory_Receiving_configuration in: org.eclipse.mylyn.internal.tasks.core.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:49.828
+!MESSAGE NLS unused message: BugzillaClientManager_Refreshing_repository_configuration in: org.eclipse.mylyn.internal.bugzilla.core.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:49.859
+!MESSAGE NLS unused message: UpdateRepositoryConfigurationAction_Error_updating_repository_configuration in: org.eclipse.mylyn.internal.tasks.ui.views.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:28:49.875
+!MESSAGE NLS unused message: UpdateRepositoryConfigurationAction_Updating_repository_configuration_for_X in: org.eclipse.mylyn.internal.tasks.ui.views.messages
+!SESSION 2017-03-23 19:29:14.625 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.6.0_10-rc2
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data G:\wyx\javatest\201529010122 王艺璇 计算机科学与技术（数字媒体技术1502班）\JavaDesign -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.234
+!MESSAGE NLS unused message: line_separator_platform_mac_os_9 in: org.eclipse.core.internal.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.312
+!MESSAGE NLS unused message: ViewsPreference_currentPresentation in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.312
+!MESSAGE NLS unused message: ViewsPreference_currentPresentationFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.312
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_title in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.312
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_message in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.312
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_yes in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.312
+!MESSAGE NLS unused message: ViewsPreference_presentationConfirm_no in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.312
+!MESSAGE NLS unused message: ViewsPreference_editors in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.312
+!MESSAGE NLS unused message: ViewsPreference_editors_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.312
+!MESSAGE NLS unused message: ViewsPreference_editors_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.312
+!MESSAGE NLS unused message: ViewsPreference_views in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.312
+!MESSAGE NLS unused message: ViewsPreference_views_top in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.312
+!MESSAGE NLS unused message: ViewsPreference_views_bottom in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.312
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.312
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topRight in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.312
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_topLeft in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.312
+!MESSAGE NLS unused message: ViewsPreference_perspectiveBar_left in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.312
+!MESSAGE NLS unused message: ViewsPreference_traditionalTabs in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.328
+!MESSAGE NLS unused message: ViewsPreference_currentTheme in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.328
+!MESSAGE NLS unused message: ViewsPreference_currentThemeDescription in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.328
+!MESSAGE NLS unused message: ViewsPreference_override in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.328
+!MESSAGE NLS unused message: ViewsPreference_currentThemeFormat in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.328
+!MESSAGE NLS unused message: ViewsPreference_restartRequestJobName in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:16.328
+!MESSAGE NLS unused message: EditorManager_largeDocumentWarning in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:20.656
+!MESSAGE NLS unused message: OpenResourceDialog_openWithButton_toolTip in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:24.031
+!MESSAGE NLS unused message: QuickAccess_PressKeyToShowInitialMatches in: org.eclipse.ui.internal.quickaccess.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:24.718
+!MESSAGE NLS unused message: TaskJobFactory_Receiving_configuration in: org.eclipse.mylyn.internal.tasks.core.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:24.828
+!MESSAGE NLS unused message: BugzillaClientManager_Refreshing_repository_configuration in: org.eclipse.mylyn.internal.bugzilla.core.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:24.875
+!MESSAGE NLS unused message: UpdateRepositoryConfigurationAction_Error_updating_repository_configuration in: org.eclipse.mylyn.internal.tasks.ui.views.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:24.875
+!MESSAGE NLS unused message: UpdateRepositoryConfigurationAction_Updating_repository_configuration_for_X in: org.eclipse.mylyn.internal.tasks.ui.views.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:47.890
+!MESSAGE NLS unused message: JavaEditorPreferencePage_highlightMatchingBrackets in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:47.968
+!MESSAGE NLS unused message: SourceAttachmentBlock_filename_label in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:47.984
+!MESSAGE NLS unused message: SourceAttachmentBlock_filename_internal_button in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:48.015
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_6 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:48.031
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_7 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:48.031
+!MESSAGE NLS unused message: LaunchConfigurationWorkingCopy_8 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:48.046
+!MESSAGE NLS unused message: LaunchConfigurationType_0 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:48.062
+!MESSAGE NLS unused message: LaunchConfigurationType_1 in: org.eclipse.debug.internal.core.DebugCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2017-03-23 19:29:48.125
+!MESSAGE NLS unused message: StandardVMType_Standard_VM_not_supported_on_MacOS__1 in: org.eclipse.jdt.internal.launching.LaunchingMessages
+!SESSION 2017-06-23 20:59:02.007 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.ui 2 2 2017-06-23 21:00:12.906
+!MESSAGE Perspective with name 'J2EE' and id 'org.eclipse.jst.j2ee.J2EEPerspective' has been made into a local copy
+
+!ENTRY org.eclipse.core.runtime 4 0 2017-06-23 21:00:13.093
+!MESSAGE Invalid input url:platform:/plugin/org.eclipse.wst.server.ui/icons/cview16/servers_view.gif
+!STACK 0
+java.io.IOException: Unable to resolve plug-in "platform:/plugin/org.eclipse.wst.server.ui/icons/cview16/servers_view.gif".
+	at org.eclipse.core.internal.runtime.PlatformURLPluginConnection.parse(PlatformURLPluginConnection.java:61)
+	at org.eclipse.core.internal.runtime.FindSupport.find(FindSupport.java:290)
+	at org.eclipse.core.runtime.FileLocator.find(FileLocator.java:152)
+	at org.eclipse.jface.resource.URLImageDescriptor.getFilePath(URLImageDescriptor.java:209)
+	at org.eclipse.jface.resource.URLImageDescriptor.access$1(URLImageDescriptor.java:200)
+	at org.eclipse.jface.resource.URLImageDescriptor$URLImageFileNameProvider.getImagePath(URLImageDescriptor.java:53)
+	at org.eclipse.swt.internal.DPIUtil.validateAndGetImagePathAtZoom(DPIUtil.java:407)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:684)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:244)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:224)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:202)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImageFromURI(SWTPartRenderer.java:224)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImage(SWTPartRenderer.java:235)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.createTab(StackRenderer.java:895)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.processContents(LazyStackRenderer.java:139)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:49)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:103)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:63)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:669)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:725)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1059)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY org.eclipse.jface 4 0 2017-06-23 21:00:13.140
+!MESSAGE Unable to resolve plug-in "platform:/plugin/org.eclipse.wst.server.ui/icons/cview16/servers_view.gif".
+!STACK 0
+java.io.IOException: Unable to resolve plug-in "platform:/plugin/org.eclipse.wst.server.ui/icons/cview16/servers_view.gif".
+	at org.eclipse.core.internal.runtime.PlatformURLPluginConnection.parse(PlatformURLPluginConnection.java:61)
+	at org.eclipse.core.internal.runtime.PlatformURLPluginConnection.resolve(PlatformURLPluginConnection.java:70)
+	at org.eclipse.core.internal.boot.PlatformURLHandler.openConnection(PlatformURLHandler.java:66)
+	at org.eclipse.osgi.internal.url.URLStreamHandlerProxy.openConnection(URLStreamHandlerProxy.java:114)
+	at java.net.URL.openConnection(Unknown Source)
+	at org.eclipse.core.internal.runtime.PlatformURLConverter.toFileURL(PlatformURLConverter.java:31)
+	at org.eclipse.core.runtime.FileLocator.toFileURL(FileLocator.java:207)
+	at org.eclipse.jface.resource.URLImageDescriptor.getFilePath(URLImageDescriptor.java:213)
+	at org.eclipse.jface.resource.URLImageDescriptor.access$1(URLImageDescriptor.java:200)
+	at org.eclipse.jface.resource.URLImageDescriptor$URLImageFileNameProvider.getImagePath(URLImageDescriptor.java:53)
+	at org.eclipse.swt.internal.DPIUtil.validateAndGetImagePathAtZoom(DPIUtil.java:407)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:684)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:244)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:224)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:202)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImageFromURI(SWTPartRenderer.java:224)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImage(SWTPartRenderer.java:235)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.createTab(StackRenderer.java:895)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.processContents(LazyStackRenderer.java:139)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:49)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:103)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:63)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:669)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:725)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1059)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY org.eclipse.core.runtime 4 0 2017-06-23 21:00:13.171
+!MESSAGE Invalid input url:platform:/plugin/org.eclipse.wst.server.ui/icons/cview16/servers_view.gif
+!STACK 0
+java.io.IOException: Unable to resolve plug-in "platform:/plugin/org.eclipse.wst.server.ui/icons/cview16/servers_view.gif".
+	at org.eclipse.core.internal.runtime.PlatformURLPluginConnection.parse(PlatformURLPluginConnection.java:61)
+	at org.eclipse.core.internal.runtime.FindSupport.find(FindSupport.java:290)
+	at org.eclipse.core.runtime.FileLocator.find(FileLocator.java:152)
+	at org.eclipse.jface.resource.URLImageDescriptor.getStream(URLImageDescriptor.java:134)
+	at org.eclipse.jface.resource.URLImageDescriptor.getImageData(URLImageDescriptor.java:106)
+	at org.eclipse.jface.resource.URLImageDescriptor.access$2(URLImageDescriptor.java:104)
+	at org.eclipse.jface.resource.URLImageDescriptor$URLImageDataProvider.getImageData(URLImageDescriptor.java:69)
+	at org.eclipse.swt.internal.DPIUtil.validateAndGetImageDataAtZoom(DPIUtil.java:392)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:729)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:254)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:224)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:202)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImageFromURI(SWTPartRenderer.java:224)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImage(SWTPartRenderer.java:235)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.createTab(StackRenderer.java:895)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.processContents(LazyStackRenderer.java:139)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:49)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:103)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:63)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:669)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:725)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1059)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY org.eclipse.core.runtime 4 0 2017-06-23 21:00:13.203
+!MESSAGE Invalid input url:platform:/plugin/org.eclipse.datatools.connectivity.ui.dse/icons/full/cview16/enterprise_explorer.gif
+!STACK 0
+java.io.IOException: Unable to resolve plug-in "platform:/plugin/org.eclipse.datatools.connectivity.ui.dse/icons/full/cview16/enterprise_explorer.gif".
+	at org.eclipse.core.internal.runtime.PlatformURLPluginConnection.parse(PlatformURLPluginConnection.java:61)
+	at org.eclipse.core.internal.runtime.FindSupport.find(FindSupport.java:290)
+	at org.eclipse.core.runtime.FileLocator.find(FileLocator.java:152)
+	at org.eclipse.jface.resource.URLImageDescriptor.getFilePath(URLImageDescriptor.java:209)
+	at org.eclipse.jface.resource.URLImageDescriptor.access$1(URLImageDescriptor.java:200)
+	at org.eclipse.jface.resource.URLImageDescriptor$URLImageFileNameProvider.getImagePath(URLImageDescriptor.java:53)
+	at org.eclipse.swt.internal.DPIUtil.validateAndGetImagePathAtZoom(DPIUtil.java:407)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:684)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:244)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:224)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:202)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImageFromURI(SWTPartRenderer.java:224)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImage(SWTPartRenderer.java:235)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.createTab(StackRenderer.java:895)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.processContents(LazyStackRenderer.java:139)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:49)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:103)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:63)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:669)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:725)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1059)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY org.eclipse.jface 4 0 2017-06-23 21:00:13.249
+!MESSAGE Unable to resolve plug-in "platform:/plugin/org.eclipse.datatools.connectivity.ui.dse/icons/full/cview16/enterprise_explorer.gif".
+!STACK 0
+java.io.IOException: Unable to resolve plug-in "platform:/plugin/org.eclipse.datatools.connectivity.ui.dse/icons/full/cview16/enterprise_explorer.gif".
+	at org.eclipse.core.internal.runtime.PlatformURLPluginConnection.parse(PlatformURLPluginConnection.java:61)
+	at org.eclipse.core.internal.runtime.PlatformURLPluginConnection.resolve(PlatformURLPluginConnection.java:70)
+	at org.eclipse.core.internal.boot.PlatformURLHandler.openConnection(PlatformURLHandler.java:66)
+	at org.eclipse.osgi.internal.url.URLStreamHandlerProxy.openConnection(URLStreamHandlerProxy.java:114)
+	at java.net.URL.openConnection(Unknown Source)
+	at org.eclipse.core.internal.runtime.PlatformURLConverter.toFileURL(PlatformURLConverter.java:31)
+	at org.eclipse.core.runtime.FileLocator.toFileURL(FileLocator.java:207)
+	at org.eclipse.jface.resource.URLImageDescriptor.getFilePath(URLImageDescriptor.java:213)
+	at org.eclipse.jface.resource.URLImageDescriptor.access$1(URLImageDescriptor.java:200)
+	at org.eclipse.jface.resource.URLImageDescriptor$URLImageFileNameProvider.getImagePath(URLImageDescriptor.java:53)
+	at org.eclipse.swt.internal.DPIUtil.validateAndGetImagePathAtZoom(DPIUtil.java:407)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:684)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:244)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:224)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:202)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImageFromURI(SWTPartRenderer.java:224)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImage(SWTPartRenderer.java:235)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.createTab(StackRenderer.java:895)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.processContents(LazyStackRenderer.java:139)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:49)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:103)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:63)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:669)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:725)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1059)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY org.eclipse.core.runtime 4 0 2017-06-23 21:00:13.281
+!MESSAGE Invalid input url:platform:/plugin/org.eclipse.datatools.connectivity.ui.dse/icons/full/cview16/enterprise_explorer.gif
+!STACK 0
+java.io.IOException: Unable to resolve plug-in "platform:/plugin/org.eclipse.datatools.connectivity.ui.dse/icons/full/cview16/enterprise_explorer.gif".
+	at org.eclipse.core.internal.runtime.PlatformURLPluginConnection.parse(PlatformURLPluginConnection.java:61)
+	at org.eclipse.core.internal.runtime.FindSupport.find(FindSupport.java:290)
+	at org.eclipse.core.runtime.FileLocator.find(FileLocator.java:152)
+	at org.eclipse.jface.resource.URLImageDescriptor.getStream(URLImageDescriptor.java:134)
+	at org.eclipse.jface.resource.URLImageDescriptor.getImageData(URLImageDescriptor.java:106)
+	at org.eclipse.jface.resource.URLImageDescriptor.access$2(URLImageDescriptor.java:104)
+	at org.eclipse.jface.resource.URLImageDescriptor$URLImageDataProvider.getImageData(URLImageDescriptor.java:69)
+	at org.eclipse.swt.internal.DPIUtil.validateAndGetImageDataAtZoom(DPIUtil.java:392)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:729)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:254)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:224)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:202)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImageFromURI(SWTPartRenderer.java:224)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.getImage(SWTPartRenderer.java:235)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.createTab(StackRenderer.java:895)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.processContents(LazyStackRenderer.java:139)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:49)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:103)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:63)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:669)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:725)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1059)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-23 21:00:16.116
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.net 4 0 2017-06-23 21:00:19.608
+!MESSAGE WinHttp.GetProxyForUrl for pac failed with error '²»ÄÜÏÂÔشúÀí·þÎñÆ÷×Զ¯ÅäÖ' #12167.
+
+!ENTRY org.eclipse.core.net 4 0 2017-06-23 21:00:19.712
+!MESSAGE WinHttp.GetProxyForUrl for pac failed with error '²»ÄÜÏÂÔشúÀí·þÎñÆ÷×Զ¯ÅäÖ' #12167.
+!SESSION 2017-06-23 21:03:11.673 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.runtime 4 0 2017-06-23 21:03:29.537
+!MESSAGE Invalid input url:platform:/plugin/org.eclipse.jst.j2ee.ui/icons/full/cview16/j2ee_perspective.gif
+!STACK 0
+java.io.IOException: Unable to resolve plug-in "platform:/plugin/org.eclipse.jst.j2ee.ui/icons/full/cview16/j2ee_perspective.gif".
+	at org.eclipse.core.internal.runtime.PlatformURLPluginConnection.parse(PlatformURLPluginConnection.java:61)
+	at org.eclipse.core.internal.runtime.FindSupport.find(FindSupport.java:290)
+	at org.eclipse.core.runtime.FileLocator.find(FileLocator.java:152)
+	at org.eclipse.jface.resource.URLImageDescriptor.getFilePath(URLImageDescriptor.java:209)
+	at org.eclipse.jface.resource.URLImageDescriptor.access$1(URLImageDescriptor.java:200)
+	at org.eclipse.jface.resource.URLImageDescriptor$URLImageFileNameProvider.getImagePath(URLImageDescriptor.java:53)
+	at org.eclipse.swt.internal.DPIUtil.validateAndGetImagePathAtZoom(DPIUtil.java:407)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:684)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:244)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:224)
+	at org.eclipse.e4.ui.workbench.addons.perspectiveswitcher.PerspectiveSwitcher.addPerspectiveItem(PerspectiveSwitcher.java:563)
+	at org.eclipse.e4.ui.workbench.addons.perspectiveswitcher.PerspectiveSwitcher.createWidget(PerspectiveSwitcher.java:403)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:966)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:151)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:375)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:308)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:186)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:108)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:74)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:51)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ToolControlRenderer.createWidget(ToolControlRenderer.java:108)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:975)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:651)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.TrimBarRenderer.processContents(TrimBarRenderer.java:134)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.subscribeTopicToBeRendered(PartRenderingEngine.java:149)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.di.internal.extensions.EventObjectSupplier$DIEventHandler.handleEvent(EventObjectSupplier.java:80)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:94)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setToBeRendered(UIElementImpl.java:303)
+	at org.eclipse.ui.internal.CoolBarToTrimManager.update(CoolBarToTrimManager.java:567)
+	at org.eclipse.ui.internal.WorkbenchWindow.updateActionBars(WorkbenchWindow.java:2334)
+	at org.eclipse.ui.internal.WorkbenchWindow.largeUpdateEnd(WorkbenchWindow.java:2387)
+	at org.eclipse.ui.internal.Workbench.largeUpdateEnd(Workbench.java:3484)
+	at org.eclipse.ui.internal.WorkbenchWindow.fillActionBars(WorkbenchWindow.java:2585)
+	at org.eclipse.ui.internal.WorkbenchWindow.setup(WorkbenchWindow.java:667)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:966)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:151)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:118)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.inject(ContextInjectionFactory.java:73)
+	at org.eclipse.ui.internal.Workbench.createWorkbenchWindow(Workbench.java:1531)
+	at org.eclipse.ui.internal.Workbench.openWorkbenchWindow(Workbench.java:2659)
+	at org.eclipse.ui.internal.Workbench.getWorkbenchPage(Workbench.java:2089)
+	at org.eclipse.ui.internal.Workbench.setReference(Workbench.java:2137)
+	at org.eclipse.ui.internal.Workbench.access$28(Workbench.java:2105)
+	at org.eclipse.ui.internal.Workbench$35.handleEvent(Workbench.java:2027)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:145)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4821)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:211)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:36)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:94)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.basic.impl.PartImpl.setContext(PartImpl.java:431)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:626)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$1.run(PartRenderingEngine.java:536)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:520)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ElementReferenceRenderer.createWidget(ElementReferenceRenderer.java:70)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:975)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:651)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1324)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:103)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:669)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:49)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:103)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:63)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:669)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:725)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1059)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY org.eclipse.jface 4 0 2017-06-23 21:03:29.600
+!MESSAGE Unable to resolve plug-in "platform:/plugin/org.eclipse.jst.j2ee.ui/icons/full/cview16/j2ee_perspective.gif".
+!STACK 0
+java.io.IOException: Unable to resolve plug-in "platform:/plugin/org.eclipse.jst.j2ee.ui/icons/full/cview16/j2ee_perspective.gif".
+	at org.eclipse.core.internal.runtime.PlatformURLPluginConnection.parse(PlatformURLPluginConnection.java:61)
+	at org.eclipse.core.internal.runtime.PlatformURLPluginConnection.resolve(PlatformURLPluginConnection.java:70)
+	at org.eclipse.core.internal.boot.PlatformURLHandler.openConnection(PlatformURLHandler.java:66)
+	at org.eclipse.osgi.internal.url.URLStreamHandlerProxy.openConnection(URLStreamHandlerProxy.java:114)
+	at java.net.URL.openConnection(Unknown Source)
+	at org.eclipse.core.internal.runtime.PlatformURLConverter.toFileURL(PlatformURLConverter.java:31)
+	at org.eclipse.core.runtime.FileLocator.toFileURL(FileLocator.java:207)
+	at org.eclipse.jface.resource.URLImageDescriptor.getFilePath(URLImageDescriptor.java:213)
+	at org.eclipse.jface.resource.URLImageDescriptor.access$1(URLImageDescriptor.java:200)
+	at org.eclipse.jface.resource.URLImageDescriptor$URLImageFileNameProvider.getImagePath(URLImageDescriptor.java:53)
+	at org.eclipse.swt.internal.DPIUtil.validateAndGetImagePathAtZoom(DPIUtil.java:407)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:684)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:244)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:224)
+	at org.eclipse.e4.ui.workbench.addons.perspectiveswitcher.PerspectiveSwitcher.addPerspectiveItem(PerspectiveSwitcher.java:563)
+	at org.eclipse.e4.ui.workbench.addons.perspectiveswitcher.PerspectiveSwitcher.createWidget(PerspectiveSwitcher.java:403)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:966)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:151)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:375)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:308)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:186)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:108)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:74)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:51)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ToolControlRenderer.createWidget(ToolControlRenderer.java:108)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:975)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:651)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.TrimBarRenderer.processContents(TrimBarRenderer.java:134)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.subscribeTopicToBeRendered(PartRenderingEngine.java:149)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.di.internal.extensions.EventObjectSupplier$DIEventHandler.handleEvent(EventObjectSupplier.java:80)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:94)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setToBeRendered(UIElementImpl.java:303)
+	at org.eclipse.ui.internal.CoolBarToTrimManager.update(CoolBarToTrimManager.java:567)
+	at org.eclipse.ui.internal.WorkbenchWindow.updateActionBars(WorkbenchWindow.java:2334)
+	at org.eclipse.ui.internal.WorkbenchWindow.largeUpdateEnd(WorkbenchWindow.java:2387)
+	at org.eclipse.ui.internal.Workbench.largeUpdateEnd(Workbench.java:3484)
+	at org.eclipse.ui.internal.WorkbenchWindow.fillActionBars(WorkbenchWindow.java:2585)
+	at org.eclipse.ui.internal.WorkbenchWindow.setup(WorkbenchWindow.java:667)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:966)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:151)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:118)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.inject(ContextInjectionFactory.java:73)
+	at org.eclipse.ui.internal.Workbench.createWorkbenchWindow(Workbench.java:1531)
+	at org.eclipse.ui.internal.Workbench.openWorkbenchWindow(Workbench.java:2659)
+	at org.eclipse.ui.internal.Workbench.getWorkbenchPage(Workbench.java:2089)
+	at org.eclipse.ui.internal.Workbench.setReference(Workbench.java:2137)
+	at org.eclipse.ui.internal.Workbench.access$28(Workbench.java:2105)
+	at org.eclipse.ui.internal.Workbench$35.handleEvent(Workbench.java:2027)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:145)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4821)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:211)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:36)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:94)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.basic.impl.PartImpl.setContext(PartImpl.java:431)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:626)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$1.run(PartRenderingEngine.java:536)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:520)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ElementReferenceRenderer.createWidget(ElementReferenceRenderer.java:70)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:975)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:651)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1324)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:103)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:669)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:49)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:103)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:63)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:669)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:725)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1059)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY org.eclipse.core.runtime 4 0 2017-06-23 21:03:29.647
+!MESSAGE Invalid input url:platform:/plugin/org.eclipse.jst.j2ee.ui/icons/full/cview16/j2ee_perspective.gif
+!STACK 0
+java.io.IOException: Unable to resolve plug-in "platform:/plugin/org.eclipse.jst.j2ee.ui/icons/full/cview16/j2ee_perspective.gif".
+	at org.eclipse.core.internal.runtime.PlatformURLPluginConnection.parse(PlatformURLPluginConnection.java:61)
+	at org.eclipse.core.internal.runtime.FindSupport.find(FindSupport.java:290)
+	at org.eclipse.core.runtime.FileLocator.find(FileLocator.java:152)
+	at org.eclipse.jface.resource.URLImageDescriptor.getStream(URLImageDescriptor.java:134)
+	at org.eclipse.jface.resource.URLImageDescriptor.getImageData(URLImageDescriptor.java:106)
+	at org.eclipse.jface.resource.URLImageDescriptor.access$2(URLImageDescriptor.java:104)
+	at org.eclipse.jface.resource.URLImageDescriptor$URLImageDataProvider.getImageData(URLImageDescriptor.java:69)
+	at org.eclipse.swt.internal.DPIUtil.validateAndGetImageDataAtZoom(DPIUtil.java:392)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:729)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:254)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:224)
+	at org.eclipse.e4.ui.workbench.addons.perspectiveswitcher.PerspectiveSwitcher.addPerspectiveItem(PerspectiveSwitcher.java:563)
+	at org.eclipse.e4.ui.workbench.addons.perspectiveswitcher.PerspectiveSwitcher.createWidget(PerspectiveSwitcher.java:403)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:966)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:151)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:375)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:308)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:186)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:108)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:74)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:51)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ToolControlRenderer.createWidget(ToolControlRenderer.java:108)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:975)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:651)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.TrimBarRenderer.processContents(TrimBarRenderer.java:134)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.subscribeTopicToBeRendered(PartRenderingEngine.java:149)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.di.internal.extensions.EventObjectSupplier$DIEventHandler.handleEvent(EventObjectSupplier.java:80)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:94)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setToBeRendered(UIElementImpl.java:303)
+	at org.eclipse.ui.internal.CoolBarToTrimManager.update(CoolBarToTrimManager.java:567)
+	at org.eclipse.ui.internal.WorkbenchWindow.updateActionBars(WorkbenchWindow.java:2334)
+	at org.eclipse.ui.internal.WorkbenchWindow.largeUpdateEnd(WorkbenchWindow.java:2387)
+	at org.eclipse.ui.internal.Workbench.largeUpdateEnd(Workbench.java:3484)
+	at org.eclipse.ui.internal.WorkbenchWindow.fillActionBars(WorkbenchWindow.java:2585)
+	at org.eclipse.ui.internal.WorkbenchWindow.setup(WorkbenchWindow.java:667)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:966)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:151)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:118)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.inject(ContextInjectionFactory.java:73)
+	at org.eclipse.ui.internal.Workbench.createWorkbenchWindow(Workbench.java:1531)
+	at org.eclipse.ui.internal.Workbench.openWorkbenchWindow(Workbench.java:2659)
+	at org.eclipse.ui.internal.Workbench.getWorkbenchPage(Workbench.java:2089)
+	at org.eclipse.ui.internal.Workbench.setReference(Workbench.java:2137)
+	at org.eclipse.ui.internal.Workbench.access$28(Workbench.java:2105)
+	at org.eclipse.ui.internal.Workbench$35.handleEvent(Workbench.java:2027)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:145)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4821)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:211)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:36)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:94)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.basic.impl.PartImpl.setContext(PartImpl.java:431)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:626)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$1.run(PartRenderingEngine.java:536)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:520)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ElementReferenceRenderer.createWidget(ElementReferenceRenderer.java:70)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:975)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:651)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1324)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:103)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:669)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:49)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:103)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:63)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:669)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:142)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:70)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:725)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:665)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:728)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:722)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1059)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-23 21:03:36.569
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.net 4 0 2017-06-23 21:03:39.716
+!MESSAGE WinHttp.GetProxyForUrl for pac failed with error '²»ÄÜÏÂÔشúÀí·þÎñÆ÷×Զ¯ÅäÖ' #12167.
